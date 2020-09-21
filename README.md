@@ -3,7 +3,7 @@ This project was created during the course "[Data Science Fundamentals](https://
 The goal was to predict wildfires in California US based on climate data.<br/>
 The following people contributed to the project:
 - Luca Inauen
-- [Jerom Kämpfer]
+- Jerom Kämpfer
 - Yehudah Gol
 - Robin Scherrer
 
