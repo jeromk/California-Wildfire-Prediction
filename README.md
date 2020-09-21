@@ -9,6 +9,8 @@ The following people contributed to the project:
 
 The presentation of the project can be viewed here: https://rjscherrer.github.io/predicting-wildfires-presentation
 
+The documentation and explanation of the results can be viewed here [https://github.com/jeromk/California-Wildfire-Prediction/blob/master/Documentation%20%26%20Results.pdf]
+
 ## Instructions
 
 1) Set the folder "DSF_Project" as your working directory
