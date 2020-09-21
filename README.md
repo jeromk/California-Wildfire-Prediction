@@ -9,7 +9,7 @@ The following people contributed to the project:
 
 The presentation of the project can be viewed here: https://rjscherrer.github.io/predicting-wildfires-presentation
 
-The documentation and explanation of the results can be viewed here [https://github.com/jeromk/California-Wildfire-Prediction/blob/master/Documentation%20%26%20Results.pdf]
+The documentation and explanation of the results can be viewed [here](https://github.com/jeromk/California-Wildfire-Prediction/blob/master/Documentation%20%26%20Results.pdf)
 
 ## Instructions
 
